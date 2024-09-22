@@ -40,5 +40,6 @@ import {
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent implements OnInit {
+  name = '';
   ngOnInit(): void {}
 }
