@@ -41,5 +41,6 @@ import {
 })
 export class AppComponent implements OnInit {
   title = 'pankaj';
+  name = '';
   ngOnInit(): void {}
 }
